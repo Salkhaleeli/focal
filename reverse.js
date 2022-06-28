@@ -11,7 +11,7 @@ const reverseArg = function (argument){
   }
   return result
 }
-// console.log(reverseArg('hello goodbye'))
+console.log(reverseArg('hello goodbye'))
 // console.log(reverseArg('1 fish 2 fish'))
 const arguments = process.argv.slice(2);
 console.log(arguments);
