@@ -1,11 +1,3 @@
-// const pythagorean = function (object, callback){
-//   for (const key in object) {
-//     console.log(key);        
-      
-//     }
-// }
-
-
 const input = [
   { x: 3, y: 4 },
   { x: 12, y: 5 },
